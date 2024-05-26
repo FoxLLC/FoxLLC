@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FoxLLC
-- 👀 Ihttps://github.com/FoxLLC/FoxLLC’m interested in coding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me coding
